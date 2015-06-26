@@ -1,0 +1,14 @@
+body {
+	background-color:blue;
+}
+p {
+	color:white;
+}
+p#egg{
+	color:yellow;
+	font-size:50px;
+}
+p.alex{
+	color:gold;
+	font-size:100px;
+}
